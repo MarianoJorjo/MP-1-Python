@@ -1,0 +1,4 @@
+The first 9 values of the graph which satifies the condition is repeated several times until the counter reached 100, it
+repeated due to the second condition which states that if the index is equal or above 10 then the index would be subtracted by 2 
+and this repeats until the value satisfies the first condition therefore making the first 9 values repeat which makes the graph oscillate
+uniformly where the lowest is -7 and peaking at 74 which could be obtained from the formula of the first condition.
